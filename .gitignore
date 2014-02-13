@@ -1,17 +1,17 @@
 ## C++ generated Files
 # Compiled Object files
-*.slo
-*.lo
-*.o
+HelloWorldApp/**/*.slo
+HelloWorldApp/**/*.lo
+HelloWorldApp/**/*.o
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
+HelloWorldApp/**/*.so
+HelloWorldApp/**/*.dylib
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
+HelloWorldApp/**/*.lai
+HelloWorldApp/**/*.la
+HelloWorldApp/**/*.a
 
 ## LaTeX generated Files
 Report/*.pdf

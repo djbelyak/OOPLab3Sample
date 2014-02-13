@@ -1,0 +1,69 @@
+﻿Build started 2/13/2014 4:16:23 PM.
+     1>Project "C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\HelloWorldApp\HelloWorldApp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\HelloWorldApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HelloWorldApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt HelloWorldApp.cpp HelloWorldAppDlg.cpp
+         HelloWorldAppDlg.cpp
+         HelloWorldApp.cpp
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u041D' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u044D' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(88): warning C4566: character represented by universal-character-name '\u0448' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0434' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0436' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u044C' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u044D' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u0433' cannot be represented in the current code page (1252)
+     1>c:\users\ibelyavtsev\documents\projects\ooplab3sample\helloworldapp\helloworldapp\helloworldapp.cpp(89): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0419" /IDebug\ /nologo /fo"Debug\HelloWorldApp.res" HelloWorldApp.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\Debug\HelloWorldApp.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\Debug\HelloWorldApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\Debug\HelloWorldApp.lib" /MACHINE:X86 Debug\HelloWorldApp.res
+         Debug\HelloWorldApp.obj
+         Debug\HelloWorldAppDlg.obj
+         Debug\stdafx.obj
+         HelloWorldApp.vcxproj -> C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\Debug\HelloWorldApp.exe
+     1>Done Building Project "C:\Users\ibelyavtsev\Documents\Projects\OOPLab3Sample\HelloWorldApp\HelloWorldApp\HelloWorldApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.40
